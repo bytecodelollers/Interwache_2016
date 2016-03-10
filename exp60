@@ -1,0 +1,27 @@
+HowTo:
+X > 1337
+X * 7 + 4 = 1337
+since the above equations are impossible i figured that there must be a problem with an int overflow.
+
+so I get calc on programming mode.
+
+type 1337-4
+
+now add the 33bit which is
+4294968629 
+devide by 7 =
+613566947
+
+telnet 188.166.133.53 12049
+Trying 188.166.133.53...
+Connected to 188.166.133.53.
+Escape character is '^]'.
+Solve the following equations:
+X > 1337
+X * 7 + 4 = 1337
+Enter the solution X: 613566947
+You entered: 613566947
+613566947 is bigger than 1337
+1337 is equal to 1337
+Well done!
+IW{Y4Y_0verfl0w}
